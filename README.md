@@ -5,9 +5,9 @@ This repository contains a simple setup to build and run a custom NGINX Docker i
 
 Before proceeding, make sure you have:
 
-    A configured Debian system.
+    A configured Debian system and please refer https://www.debian.org/distrib/
 
-    Docker installed via the official Docker APT repository.
+    Docker installed via the official Docker APT repository and please refer https://docs.docker.com/engine/install/debian/#install-using-the-repository
 
 🛠️ Setup Instructions
 
