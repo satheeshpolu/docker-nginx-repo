@@ -3,8 +3,7 @@
 FROM nginx:alpine
 
 # Install git and nginx
-RUN apk update && \
-    apk add --no-cache git
+RUN apk update
 
 # Set working directory to nginx web root
 WORKDIR /app
