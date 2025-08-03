@@ -60,4 +60,4 @@ docker rmi nginx:2.0.0
 
 📄 License
 
-MIT (or specify as needed)
+MIT 
