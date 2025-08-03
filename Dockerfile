@@ -1,5 +1,5 @@
 
-# Approach Two  with Alpine Image
+# Approach One  with Alpine Image
 FROM nginx:alpine
 
 # Install git and nginx
